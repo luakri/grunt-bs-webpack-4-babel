@@ -1,0 +1,7 @@
+{
+    "verbose": true,
+    "roots": ["__tests__"],
+    "testPathIgnorePatterns": ["<rootDir>/__tests__/helpers.js", "<rootDir>/__tests__/__mocks__/", "^.+\\-(fixture)\\.js$"],
+    "moduleNameMapper": {},
+    "testURL": "http://localhost"
+}
